@@ -1,0 +1,40 @@
+/* this is style */
+
+.div1 {
+    width: 400px;
+    height: 400px;
+    font-size: 22px;
+    background-size: cover;
+    background-image: url(../image/b.jpg);
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.div2 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    font-size: 22px;
+    background-image: url(../image/b.jpg);
+    background-repeat: repeat-y;
+    background-position: right;
+}
+
+.div3 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    font-size: 22px;
+    background-image: url(../image/b.jpg);
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+.div4 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    font-size: 22px;
+    background-image: url(../image/b.jpg);
+    background-repeat: repeat-x, y;
+}
