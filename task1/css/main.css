@@ -1,0 +1,44 @@
+.my-div {
+    color: darkblue;
+    font-size: large;
+}
+
+
+/* valid */
+
+._my-div {}
+
+
+/* valid */
+
+.my-div {}
+
+
+/* not valid */
+
+.12my-div {}
+
+
+/* not valid */
+
+.% my-div {}
+
+
+/* not valid */
+
+.@my-div {}
+
+
+/* not vaild */
+
+.my @div {}
+
+
+/* not valid */
+
+._my78div {}
+
+
+/* valid */
+
+.div {}
