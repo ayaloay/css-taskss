@@ -1,0 +1,24 @@
+/* this is style */
+
+.my-p1 {
+    font-size: 25px;
+    width: 23%;
+    padding: 20px;
+    background-color: orchid;
+}
+
+.my-p2 {
+    font-size: 25px;
+    width: 23%;
+    padding: 20px;
+    color: aliceblue;
+    background-color: rgb(83, 0, 139);
+}
+
+.my-p3 {
+    font-size: 25px;
+    width: 23%;
+    padding: 20px;
+    color: hsl(0, 0%, 96%);
+    background-color: thistle;
+}
