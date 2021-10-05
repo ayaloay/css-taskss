@@ -1,0 +1,36 @@
+/* this is style */
+
+body {
+    background-image: url(../image/d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.my-p1 {
+    width: 280px;
+    height: 280px;
+    background-image: url(../image/h.jpg);
+    padding: 22px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.my-p2 {
+    width: 280px;
+    height: 280px;
+    background-image: url(../image/d.jpg);
+    padding: 22px;
+    background-size: cover;
+    color: aliceblue;
+    background-repeat: no-repeat;
+}
+
+.my-p3 {
+    width: 280px;
+    height: 280px;
+    background-image: url(../image/d.jpg);
+    padding: 22px;
+    background-size: cover;
+    color: aliceblue;
+    background-repeat: no-repeat;
+}
