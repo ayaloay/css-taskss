@@ -1,0 +1,12 @@
+/* this is style */
+
+.my-p1 {
+    background-color: rgba(192, 192, 192, 0.815);
+    border-left: 5px solid red;
+    padding: 20px 25px 20px 30px;
+    width: 95%;
+}
+
+h {
+    color: red;
+}
